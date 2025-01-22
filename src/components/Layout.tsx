@@ -1,5 +1,5 @@
 import { Link, Outlet } from "react-router-dom";
-import { Coffee as CoffeeIcon, Globe, BarChart3 } from "lucide-react";
+import { CoffeeIcon, Globe, BarChart3 } from "lucide-react";
 import { motion } from "framer-motion";
 import { Footer } from "./Footer";
 
@@ -19,21 +19,21 @@ export const Layout = () => {
                 className="flex items-center space-x-2 hover:text-amber-200 transition-colors"
               >
                 <CoffeeIcon className="w-5 h-5" />
-                <span>Coffees</span>
+                <span className="hidden sm:inline">Coffees</span>
               </Link>
               <Link
                 to="/origins"
                 className="flex items-center space-x-2 hover:text-amber-200 transition-colors"
               >
                 <Globe className="w-5 h-5" />
-                <span>Origins</span>
+                <span className="hidden sm:inline">Origins</span>
               </Link>
               <Link
                 to="/consumption"
                 className="flex items-center space-x-2 hover:text-amber-200 transition-colors"
               >
                 <BarChart3 className="w-5 h-5" />
-                <span>Consumption</span>
+                <span className="hidden sm:inline">Consumption</span>
               </Link>
             </div>
           </div>
