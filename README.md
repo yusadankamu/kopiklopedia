@@ -1,8 +1,8 @@
 # 🌟 Kopiklopedia
 
-<div align="center">
+
   ![alt text](https://github.com/yusadankamu/kopiklopedia/blob/main/public/kopi.jpg?raw=true)
-</div>
+
 
 ## 📚 About
 
