@@ -1,7 +1,7 @@
 # 🌟 Kopiklopedia
 
 <div align="center">
-  <img src="[https://source.unsplash.com/featured/800x400/?coffee-beans](https://images.unsplash.com/photo-1577136775313-3fe6bb064a09?q=80&w=1760&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" alt="Kopiklopedia Banner" />
+  ![alt text](https://github.com/yusadankamu/kopiklopedia/blob/main/public/kopi.jpg?raw=true)
 </div>
 
 ## 📚 About
