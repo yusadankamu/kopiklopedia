@@ -15,7 +15,7 @@ export const CoffeeCard: React.FC<CoffeeCardProps> = ({ coffee, onClick }) => {
       className="bg-white rounded-xl shadow-lg overflow-hidden cursor-pointer transform transition-all duration-300 hover:shadow-2xl"
       onClick={onClick}
     >
-      <div className="relative h-56">
+      <div className="relative h-56 sm:h-64 md:h-72 lg:h-80 xl:h-96">
         {coffee.image_url ? (
           <img
             src={coffee.image_url}
