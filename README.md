@@ -47,10 +47,9 @@ Kopiklopedia is your ultimate coffee encyclopedia, designed to enrich the knowle
 
 ## 📱 Screenshots
 
-<div align="center">
-  <img src="https://source.unsplash.com/featured/400x300/?coffee-shop" alt="Homepage" width="400" />
-  <img src="https://source.unsplash.com/featured/400x300/?coffee-beans" alt="Coffee Details" width="400" />
-</div>
+![alt text](https://github.com/yusadankamu/kopiklopedia/blob/main/public/hp.png?raw=true)
+![alt text](https://github.com/yusadankamu/kopiklopedia/blob/main/public/op.png?raw=true)
+![alt text](https://github.com/yusadankamu/kopiklopedia/blob/main/public/cp.png?raw=true)
 
 ## 🌐 Live Demo
 
